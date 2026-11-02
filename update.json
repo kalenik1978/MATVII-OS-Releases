@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.8.20",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.20/MATVII-OS-0.8.20.apk",
-  "sha256": "F5015815D39E5FE4CE924DF6015F4481A26F4794F1782F910CE8A91E7B77A3D1",
-  "notes": "MATVII OS 0.8.20 — clean standalone MATVII build, no external Lampa module, MATVII-owned settings/defaults, GitHub updater retained."
+  "versionCode": 29,
+  "versionName": "0.8.21",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.21/MATVII-OS-0.8.21.apk",
+  "sha256": "CBA28D78211B21EECBBCE3DFC29EF1BE08FEB471BE26A8A88572A93081498D1B",
+  "notes": "MATVII OS 0.8.21 — recovery from audited 0.8.16 baseline with startup crash logging and Safe Mode."
 }
