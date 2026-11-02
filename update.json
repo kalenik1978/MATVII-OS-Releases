@@ -1,0 +1,7 @@
+{
+  "versionCode": 24,
+  "versionName": "0.8.16",
+  "apkUrl": "https://github.com/__OWNER__/MATVII-OS-Releases/releases/download/v0.8.16/MATVII-OS-0.8.16.apk",
+  "sha256": "08381A9E1470B60B2FE8CE70361C6C2E5E9A29A139A219E97F0C6402774EB8F0",
+  "notes": "MATVII OS 0.8.16 — restored main menu, Lampa settings parity, updater, IPTV/EPG, TorrServer, phone control and module runtime."
+}
