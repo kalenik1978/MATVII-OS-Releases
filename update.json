@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.8.17",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.17/MATVII-OS-0.8.17.apk",
-  "sha256": "CD886DE3F20B368EC593BE5CF6A7582A739B0B09AD14C780F6FA13FCDCB4937C",
-  "notes": "MATVII OS 0.8.17 — permanent GitHub update channel and updater reliability fixes."
+  "versionCode": 26,
+  "versionName": "0.8.18",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.18/MATVII-OS-0.8.18.apk",
+  "sha256": "EA7FC428093F671FAE61596EF67E6601A9E57FB0AEDC81E27031BCB2E3EEA4F8",
+  "notes": "MATVII OS 0.8.18 — GitHub API latest-channel updater, permanent HTTPS update path, SHA-256 verification."
 }
