@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.8.21",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.21/MATVII-OS-0.8.21.apk",
-  "sha256": "CBA28D78211B21EECBBCE3DFC29EF1BE08FEB471BE26A8A88572A93081498D1B",
-  "notes": "MATVII OS 0.8.21 — recovery from audited 0.8.16 baseline with startup crash logging and Safe Mode."
+  "versionCode": 30,
+  "versionName": "0.8.22",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.22/MATVII-OS-0.8.22.apk",
+  "sha256": "EC499AE16BA65812C507E14B18D7ECBAAF102DF086C9933CDC0D5ADC73A90C87",
+  "notes": "MATVII OS 0.8.22 — emergency Recovery Launcher for X16 startup diagnosis; no settings read on first screen."
 }
