@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.8.23",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.23/MATVII-OS-0.8.23.apk",
-  "sha256": "6239215A48CC75D1ED1FC3230F4CAA1D485C0BCA060251CD5FDB974DE5AF28AA",
-  "notes": "MATVII OS 0.8.23 — restored normal Splash/Main startup, permanent GitHub HTTPS update channel, updater fixes and refreshed MATVII quality gates."
+  "versionCode": 32,
+  "versionName": "0.8.24",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.24/MATVII-OS-0.8.24.apk",
+  "sha256": "8081E72A2A5455C8758A7AA91B7BC877E5F556106750BB6B1D454A3B236084EE",
+  "notes": "MATVII OS 0.8.24 — complete in-app GitHub update flow with HTTPS download, SHA-256 verification and Android system install confirmation."
 }
