@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.8.25",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.25/MATVII-OS-0.8.25.apk",
-  "sha256": "411D115E7D912E7408BAB84FF079021DF17B6017E0BE5443DB7FC66F5F622A56",
-  "notes": "MATVII OS 0.8.25 — aligned AI movie/series commands, cleaned IPTV UI and enabled safe HTTPS browser downloads."
+  "versionCode": 35,
+  "versionName": "0.8.27",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.27/MATVII-OS-0.8.27.apk",
+  "sha256": "7636D4B165BD9ED7B8CA9420855AF9983628807DA64811363DA3B0BE830070EC",
+  "notes": "MATVII OS 0.8.27 — hardened X16 startup: standard + TV launcher intents, minimal Splash Activity, safe startup migrations."
 }
