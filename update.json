@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.8.27",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.27/MATVII-OS-0.8.27.apk",
-  "sha256": "7636D4B165BD9ED7B8CA9420855AF9983628807DA64811363DA3B0BE830070EC",
-  "notes": "MATVII OS 0.8.27 — hardened X16 startup: standard + TV launcher intents, minimal Splash Activity, safe startup migrations."
+  "versionCode": 36,
+  "versionName": "0.8.28",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.28/MATVII-OS-0.8.28.apk",
+  "sha256": "F3919528F956AD6816C6A91C623E2BF43C32CDF88FA900CB5629FD7B09FB79E9",
+  "notes": "MATVII OS 0.8.28 — non-debuggable signed release build for X16 with hardened startup and dual launcher compatibility."
 }
