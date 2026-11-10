@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "0.8.70",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.70/MATVII-OS-0.8.70.apk",
-  "sha256": "20B2FAD59979122B7348E535B725140D8D07DE6004DA79634A3A85B2763E9AAB",
-  "notes": "Картки та головний екран враховують цифрову прем’єру. Для майбутніх онлайн-релізів MatveiiTV показує «Скоро онлайн» і не запускає пошук джерел."
+  "versionCode": 80,
+  "versionName": "0.8.71",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.71/MATVII-OS-0.8.71.apk",
+  "sha256": "600E26FAD86AFEDD0B915296FD65DD3CE2E5BB077B602A876AAC3915D6761E56",
+  "notes": "Українські аудіоверсії: підтримка 777 UA Studio, перехід до наступної озвучки після помилки та перевірка додаткових версій без мовної позначки."
 }
