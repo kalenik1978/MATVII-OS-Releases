@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "0.8.57",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.57/MATVII-OS-0.8.57.apk",
-  "sha256": "3F8778C5D5068BD95072A8039B4466245212B507A530F8A571A9D259AD21D49E",
-  "notes": "Українська озвучка має пріоритет на всіх телевізорах. Російська доступна лише після перевірки звукових доріжок. Оновлено оформлення MATVII GPT."
+  "versionCode": 68,
+  "versionName": "0.8.59",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.59/MATVII-OS-0.8.59.apk",
+  "sha256": "6178653117926B63141BD8A4D42A47866B52DD558B3F20DD5C4582024ADE95DF",
+  "notes": "Пошук за назвою та сюжетом. Виправлено рік оригінальної прем’єри та перевірку наступних роздач перед автозапуском."
 }
