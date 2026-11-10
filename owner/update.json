@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "0.8.73",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.73/MATVII-OS-0.8.73.apk",
-  "sha256": "2BDB381D45DEFEB49803E9FF3F3CF103D54003F0E85FDF6C166BC68D7C56C735",
-  "notes": "Виправлено запуск серій з українською озвучкою DniproFilm, зокрема «Земля Гангстерів»."
+  "versionCode": 83,
+  "versionName": "0.8.74",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.74/MATVII-OS-0.8.74.apk",
+  "sha256": "A93F6FAC4DA418321E7A9B4F10E01A7C5C4AE5E0D9190E06DC12C13CEC8D9382",
+  "notes": "Автоматичне оновлення адрес провайдерів і повторний пошук після збою. Виправлено кеш порожніх відповідей та повернення із torrent-пошуку. Пріоритет української озвучки. Відновлення з’єднання з X16."
 }
