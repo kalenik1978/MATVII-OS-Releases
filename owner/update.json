@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "0.8.59",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.59/MATVII-OS-0.8.59.apk",
-  "sha256": "6178653117926B63141BD8A4D42A47866B52DD558B3F20DD5C4582024ADE95DF",
-  "notes": "Пошук за назвою та сюжетом. Виправлено рік оригінальної прем’єри та перевірку наступних роздач перед автозапуском."
+  "versionCode": 69,
+  "versionName": "0.8.60",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.60/MATVII-OS-0.8.60.apk",
+  "sha256": "8C1DF9482A70EDA3A4955753F911628F5D3200B6CED2911EC14F310F815CC197",
+  "notes": "Обов’язковий автозапуск після команди перегляду. Автоматичний повтор неповної перевірки джерел та вибір найкращої підтвердженої української версії."
 }
