@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "0.8.69",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.69/MATVII-OS-0.8.69.apk",
-  "sha256": "44C42E0D67DB3EF5785E9BC725986330140517D2D13429CBB1C4F9F1BB3BF7EB",
-  "notes": "Прямий онлайн-запуск фільмів та вибраних серій за ID каталогу. Пріоритет української озвучки. Торренти залишаються резервом."
+  "versionCode": 79,
+  "versionName": "0.8.70",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.70/MATVII-OS-0.8.70.apk",
+  "sha256": "20B2FAD59979122B7348E535B725140D8D07DE6004DA79634A3A85B2763E9AAB",
+  "notes": "Картки та головний екран враховують цифрову прем’єру. Для майбутніх онлайн-релізів MatveiiTV показує «Скоро онлайн» і не запускає пошук джерел."
 }
