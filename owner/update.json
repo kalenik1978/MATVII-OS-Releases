@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "0.8.61",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.61/MATVII-OS-0.8.61.apk",
-  "sha256": "270EE83A8B4B47E81659F9A3DD0611DE1B2DD1976AC7B9B93FED2A872F72911B",
-  "notes": "Сінтел (2010) запускається у плеєрі з українським дубляжем VoS Records. Виправлено перевірку тривалості для неповних карток."
+  "versionCode": 71,
+  "versionName": "0.8.62",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.62/MATVII-OS-0.8.62.apk",
+  "sha256": "87B1B8ADB5877DC259EC70DF41BE6DBF7529A8F282E252A8E202E3EC1304B175",
+  "notes": "Великий кіноперсонаж у центрі екрана. Жанрові жести, короткі польоти й українські голосові репліки на паузі без інтернету."
 }
