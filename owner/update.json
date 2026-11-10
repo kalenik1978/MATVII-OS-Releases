@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "0.8.63",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.63/MATVII-OS-0.8.63.apk",
-  "sha256": "FAC9E9BB3E5766BB3AF59C3709800309235A6C5080B6DE0749D00D8AF3F3D0D4",
-  "notes": "Розмір персонажа й частота польотів у меню плеєра. Польоти поступаються субтитрам, а швидка пауза не вмикає жест чи голос."
+  "versionCode": 76,
+  "versionName": "0.8.67",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.67/MATVII-OS-0.8.67.apk",
+  "sha256": "32BAD5D3C1EBEDF9A39CD89FC55B435C6CCDC25D5B29A0667B32801F2D3D4476",
+  "notes": "Пошук фільмів і вибраних серій через Jackett та Prowlarr, резервний список серій TVmaze. Спільні налаштування теми й масштабу інтерфейсу MatveiiTV."
 }
