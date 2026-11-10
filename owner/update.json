@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "0.8.67",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.67/MATVII-OS-0.8.67.apk",
-  "sha256": "32BAD5D3C1EBEDF9A39CD89FC55B435C6CCDC25D5B29A0667B32801F2D3D4476",
-  "notes": "Пошук фільмів і вибраних серій через Jackett та Prowlarr, резервний список серій TVmaze. Спільні налаштування теми й масштабу інтерфейсу MatveiiTV."
+  "versionCode": 77,
+  "versionName": "0.8.68",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.68/MATVII-OS-0.8.68.apk",
+  "sha256": "070AA75E88C9D18C8454D9849C0908630DB8488A3C23C8D8855E176F62D0C188",
+  "notes": "Вибрана серія перевіряється до підключення до роздачі. Підтримано нумерацію файлів у сезонах і запуск перевіреної резервної озвучки."
 }
