@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "0.8.71",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.71/MATVII-OS-0.8.71.apk",
-  "sha256": "600E26FAD86AFEDD0B915296FD65DD3CE2E5BB077B602A876AAC3915D6761E56",
-  "notes": "Українські аудіоверсії: підтримка 777 UA Studio, перехід до наступної озвучки після помилки та перевірка додаткових версій без мовної позначки."
+  "versionCode": 81,
+  "versionName": "0.8.72",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.72/MATVII-OS-0.8.72.apk",
+  "sha256": "06D56388A78D5F3645EFB031F1F6EB4757BD5CB26E559A8FD284CC93D41001DB",
+  "notes": "Перевірка джерел для фільмів і серій, пошук сервісів в Україні та вибір української версії з іншою тривалістю."
 }
