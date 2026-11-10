@@ -1,0 +1,9 @@
+{
+  "schema": "matvii.providers.v1",
+  "revision": 1,
+  "ashdi_lookup": "https://wh.lme.isroot.in/?imdb_id={imdb}",
+  "collaps_embed": "https://api.luxembd.ws/embed/imdb/{imdb}",
+  "ashdi_hosts": [
+    "ashdi.vip"
+  ]
+}
