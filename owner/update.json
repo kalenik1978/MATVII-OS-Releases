@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "0.8.68",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.68/MATVII-OS-0.8.68.apk",
-  "sha256": "070AA75E88C9D18C8454D9849C0908630DB8488A3C23C8D8855E176F62D0C188",
-  "notes": "Вибрана серія перевіряється до підключення до роздачі. Підтримано нумерацію файлів у сезонах і запуск перевіреної резервної озвучки."
+  "versionCode": 78,
+  "versionName": "0.8.69",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.69/MATVII-OS-0.8.69.apk",
+  "sha256": "44C42E0D67DB3EF5785E9BC725986330140517D2D13429CBB1C4F9F1BB3BF7EB",
+  "notes": "Прямий онлайн-запуск фільмів та вибраних серій за ID каталогу. Пріоритет української озвучки. Торренти залишаються резервом."
 }
