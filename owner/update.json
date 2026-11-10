@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "0.8.62",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.62/MATVII-OS-0.8.62.apk",
-  "sha256": "87B1B8ADB5877DC259EC70DF41BE6DBF7529A8F282E252A8E202E3EC1304B175",
-  "notes": "Великий кіноперсонаж у центрі екрана. Жанрові жести, короткі польоти й українські голосові репліки на паузі без інтернету."
+  "versionCode": 72,
+  "versionName": "0.8.63",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.63/MATVII-OS-0.8.63.apk",
+  "sha256": "FAC9E9BB3E5766BB3AF59C3709800309235A6C5080B6DE0749D00D8AF3F3D0D4",
+  "notes": "Розмір персонажа й частота польотів у меню плеєра. Польоти поступаються субтитрам, а швидка пауза не вмикає жест чи голос."
 }
