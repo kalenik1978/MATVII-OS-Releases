@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "0.8.74",
-  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.74/MATVII-OS-0.8.74.apk",
-  "sha256": "A93F6FAC4DA418321E7A9B4F10E01A7C5C4AE5E0D9190E06DC12C13CEC8D9382",
-  "notes": "Автоматичне оновлення адрес провайдерів і повторний пошук після збою. Виправлено кеш порожніх відповідей та повернення із torrent-пошуку. Пріоритет української озвучки. Відновлення з’єднання з X16."
+  "versionCode": 84,
+  "versionName": "0.8.75",
+  "apkUrl": "https://github.com/kalenik1978/MATVII-OS-Releases/releases/download/v0.8.75/MATVII-OS-0.8.75.apk",
+  "sha256": "DF26D635D73EAB62257114C73801DD8C42EA52B1B9BC500659A4FEC42E8C26BF",
+  "notes": "Відновлено IPTV. Відтворення будь-якою мовою та без позначення мови. Українська має пріоритет. Прибрано блокування через тривалість та ручний вибір озвучки."
 }
